@@ -23,11 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmed-naoum-002368272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-naoum-002368272" height="30" width="40" /></a>
-<a href="https://fb.com/dev.ahmed.naoum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev.ahmed.naoum" height="30" width="40" /></a>
-<a href="https://instagram.com/theahmednaoum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theahmednaoum" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raoufnaoum15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raoufnaoum15" height="30" width="40" /></a>
-<a href="/https://rss.app/feeds/xfw1teqeka2dvsex.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/feeds/xfw1teqeka2dvsex.xml" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed-naoum-002368272" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-naoum-002368272" height="30" width="40" /></a>
+<a href="https://fb.com/dev.ahmed.naoum" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev.ahmed.naoum" height="30" width="40" /></a>
+<a href="https://instagram.com/theahmednaoum" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theahmednaoum" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/raoufnaoum15" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raoufnaoum15" height="30" width="40" /></a>
+<a href="/https://rss.app/feeds/xfw1teqeka2dvsex.xml" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/feeds/xfw1teqeka2dvsex.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
