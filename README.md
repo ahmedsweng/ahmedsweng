@@ -2,6 +2,7 @@
 <h3 align="center">A dedicated Full Stack Developer with extensive experience in crafting and deploying innovative web and mobile applications. From Algeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednaoumdev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednaoumdev" /> </p>
+[![LeetCode user raoufnaoum15](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fraoufnaoum15&logo=leetcode&logoColor=yellow)](https://leetcode.com/raoufnaoum15/)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednaoumdev" alt="ahmednaoumdev" /></a> </p>
 
