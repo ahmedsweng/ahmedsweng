@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Naoum</h1>
-<h3 align="center">A dedicated Full Stack Developer with extensive experience in crafting and deploying innovative web and mobile applications. From Algeria.</h3>
+<h3 align="center">A dedicated Software Engineer with extensive experience in crafting and deploying innovative web and mobile applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednaoumdev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednaoumdev" /> </p>
 
